@@ -5,7 +5,7 @@
 
 ### Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/gourav-gk/stream.git
 ```
 
 ### Running the Server
